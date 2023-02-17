@@ -1,2 +1,6 @@
 welcome:
   msg: welcome to dev git world from v1.1.0
+db:
+  username: admin
+  password: root
+  
