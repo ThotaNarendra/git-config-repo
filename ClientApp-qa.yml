@@ -1,5 +1,5 @@
 welcome:
   msg: welcome to qa git world from v1.1.0
 db:
-  username: admin
-  password: admin
+  username: vault:v1:WWut2p6U3vYG5llqBla8NtLW3tIGBJ3en3VbLkq17TYk
+  password: vault:v1:g4O/FAMt6+hy2/1OmTIgoVHPN6wvHdHfTucnnVomkhEDGhVV8Ds=
