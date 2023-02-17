@@ -1,2 +1,5 @@
 welcome:
   msg: welcome to qa git world from v1.1.0
+db:
+  username: admin
+  password: admin
