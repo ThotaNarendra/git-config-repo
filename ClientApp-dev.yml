@@ -1,6 +1,6 @@
 welcome:
   msg: welcome to dev git world from v1.1.0
 db:
-  username: admin
-  password: root
+  username: vault:v1:mer9iz0Vi2dGBtUHLYMTjQ+qg3MmLlsrT+oSloTxfRDhW5oU
+  password: vault:v1:4A2c5oqQizTunM94fAwoqqpFupHa6wkRdMnBVen2V8fi+Z9W4bGLLQ==
   
