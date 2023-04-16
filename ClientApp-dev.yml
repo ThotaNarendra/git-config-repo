@@ -4,3 +4,5 @@ db:
   username: vault:v1:XtJOq3vU2SvqMFExFQl4gXwSSdQhZxNl8YndYRWJeo972i2J
   password: vault:v1:StLIjB0Rjhki+MkksQc2iBIStj0PNKBJVn6eGnFuwyUAvsUGil9RRg==
   
+secretKey: mydata-key
+  
