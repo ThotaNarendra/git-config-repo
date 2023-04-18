@@ -1,8 +1,8 @@
 welcome:
   msg: welcome to dev git world as newly-1
 db:
-  username: vault:v1:XtJOq3vU2SvqMFExFQl4gXwSSdQhZxNl8YndYRWJeo972i2J
-  password: vault:v1:StLIjB0Rjhki+MkksQc2iBIStj0PNKBJVn6eGnFuwyUAvsUGil9RRg==
+  username: vault:v1:rmrrXCnFsywpghQJ3z/q6WmDH8FYIB+WTfyT+SpV0tqsJHNh
+  password: vault:v1:vovFuNelwCHnKTlKAqv4hewM8S9fm1gastAMOgMEd9JUOeFCTcghDA==
   
 secretKey: mydata-key
 vault_token: token
