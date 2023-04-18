@@ -6,4 +6,38 @@ db:
   
 secretKey: mydata-key
 vault_token: token
+server:
+  port: 8080
+spring:
+  application:
+    name: ClientApp
+  config:
+    import: configserver:http://config-server:8888
+    enabled: true
+  cloud:
+    vault:
+      token: token
+      authentication: token
+      scheme: http
+      uri: http://vault-server:8200
+      fail-fast: true
+  security:
+    user:
+      name: narendra
+      password: narendra
+
+eureka:
+  instance:
+    hostname: config-client
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://eureka-server:8761/eureka/
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh
+
   
