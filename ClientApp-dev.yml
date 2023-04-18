@@ -5,4 +5,5 @@ db:
   password: vault:v1:StLIjB0Rjhki+MkksQc2iBIStj0PNKBJVn6eGnFuwyUAvsUGil9RRg==
   
 secretKey: mydata-key
+vault_token: token
   
